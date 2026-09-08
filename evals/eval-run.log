@@ -10,3 +10,5 @@ Running scenarios...
 
 Scenario 1: Ownership audit and flagged-for-confirmation list
 ---
+[0;32m✓ Scenario 1 completed[0m
+  ✓ Flagged list detected
