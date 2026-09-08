@@ -37,7 +37,7 @@ Requires code execution to be enabled.
 
 ```bash
 git clone https://github.com/mir-quadri/ats-resume-tailor.git
-cd ats-resume-tailor && zip -r ats-resume-tailor.zip ats-resume-tailor
+cd ats-resume-tailor && zip -r ats-resume-tailor.zip . --exclude ".git/*" "evals/out/*"
 ```
 
 **Claude Code.** Skills load from a folder:

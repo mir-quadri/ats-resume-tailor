@@ -1,0 +1,12 @@
+========================================
+ATS Resume Tailor - Eval Test Suite
+========================================
+
+Checking prerequisites...
+[0;32m✓ Claude CLI found[0m
+[0;32m✓ Python 3 found[0m
+
+Running scenarios...
+
+Scenario 1: Ownership audit and flagged-for-confirmation list
+---

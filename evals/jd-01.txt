@@ -1,0 +1,39 @@
+JOB POSTING: Senior Data Engineer
+
+Company: CloudScale Inc
+Location: San Francisco, CA (Remote-first)
+
+About the Role
+
+We are looking for a Senior Data Engineer to join our growing data platform team. You will own the
+design and implementation of real-time data pipelines that power our analytics and ML infrastructure.
+This is a high-visibility role where your work directly impacts how the company makes data-driven decisions.
+
+Requirements
+
+REQUIRED:
+- 5+ years of experience building production data pipelines
+- Hands-on expertise with Apache Kafka or equivalent real-time streaming technology
+- Strong SQL and Python skills
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Demonstrated ability to lead and mentor engineers
+
+NICE TO HAVE:
+- Production experience with Apache Spark
+- Experience building data quality frameworks
+- Background with at least one modern data warehouse (Snowflake, BigQuery, Redshift)
+- Open-source contributions to data engineering projects
+
+Responsibilities
+
+- Design and implement scalable, real-time data pipelines serving multiple data consumers
+- Own the quality and reliability of production data infrastructure
+- Lead the technical architecture decisions for the data platform
+- Mentor junior engineers and establish best practices for the team
+- Partner with analytics and ML teams to understand data requirements
+- Optimize data processing costs and performance
+
+About Us
+
+CloudScale is a Series B data infrastructure company. Our mission is to make data accessible and
+reliable for businesses of all sizes. We value technical excellence, pragmatism, and continuous learning.

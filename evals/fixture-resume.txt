@@ -1,0 +1,45 @@
+TAYLOR CHEN
+Senior Data Engineer | San Francisco, CA
+Email: taylor.chen@example.com | Phone: (555) 234-5678
+
+SUMMARY
+Results-driven data engineer with 8 years of experience building scalable data pipelines and analytics
+infrastructure. Specialized in cloud-based architectures on AWS. Strong track record of optimizing data
+processing and enabling data-driven decision making across organizations.
+
+EXPERIENCE
+
+Senior Data Engineer
+DataFlow Systems | January 2021 – Present (4 years)
+• Built a real-time event streaming platform processing 100M events per day using Kafka and Spark
+• Led a team of 4 data engineers focused on pipeline optimization
+• The company reduced average query latency from 45 seconds to 8 seconds by implementing columnar storage
+• Designed and maintained 15+ production data pipelines using Apache Airflow
+• Mentored 6 junior engineers on best practices and code review standards
+
+Data Engineer
+Analytics Hub | June 2018 – December 2020 (2.5 years)
+• Coordinated a shift of 22 data engineers toward microservices architecture
+• Built 8 ETL pipelines for sales analytics, serving 50+ internal stakeholders
+• Owned the migration from Redshift to Snowflake, completed in 3 months
+• Implemented data quality frameworks that reduced data incidents by 70%
+• Python developer building Airflow DAGs and custom transformations
+
+Analyst, Data Systems
+TechStart Inc | February 2017 – May 2018 (1.3 years)
+• Supported the analytics team in building dashboards for executive reporting
+• Collaborated with analysts to develop SQL queries for marketing attribution
+• Contributed to infrastructure improvements for data warehouse optimization
+
+EDUCATION
+B.S. Computer Science, State University, 2016
+AWS Certified Solutions Architect (Associate), 2019
+
+SKILLS
+• Languages: Python (8 years), SQL (7 years), Scala (2 years)
+• Tools & Platforms: Apache Kafka, Apache Spark, Apache Airflow, AWS (EC2, S3, RDS), Snowflake, Redshift
+• Data Technologies: ETL/ELT, Real-time streaming, Data warehousing, Data quality, Columnar storage
+
+CERTIFICATIONS
+AWS Certified Solutions Architect (Associate), 2019
+Certified Data Engineer, DataSchool, 2020
